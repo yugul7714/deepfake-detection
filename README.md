@@ -124,38 +124,3 @@ Run with verbose logging:
 python -u main.py
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Model**: DenseNet121 architecture for deepfake detection
-- **Libraries**: PyQt5, OpenCV, FastAPI, TensorFlow/Keras
-- **Dataset**: Training data used for the deepfake detection model
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Create an issue in the GitHub repository
-- Check the troubleshooting section above
-- Ensure all dependencies are properly installed
-
-## 🔄 Updates
-
-- **v1.0.0**: Initial release with basic video player and deepfake detection
-- Real-time frame analysis
-- PyQt5-based GUI
-- FastAPI backend integration
-
----
-
-**Note**: This project is for educational and research purposes. The deepfake detection model should be used responsibly and in accordance with applicable laws and regulations.
